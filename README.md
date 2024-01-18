@@ -1,4 +1,7 @@
 <h1> 👋 Hi, I’m @amvidsa </h1> <br>
+
+<img scr="/amvidsa/olinda-pernambuco-Embratel.gif">
+
 🇧🇷 I'm a brazilian Girl <br>
 🧪 I'm Chemical Engineer <br>
 💻 I'm Computer Science student <br>
