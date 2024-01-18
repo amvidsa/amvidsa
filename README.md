@@ -1,12 +1,12 @@
 <h1> 👋 Hi, I’m @amvidsa </h1> <br>
 🇧🇷 I'm a brazilian Girl <br>
-🧪 I'm Chemical engineering <br>
-💻 I'm computer science student <br>
+🧪 I'm Chemical Engineer <br>
+💻 I'm Computer Science student <br>
 👀 I’m interested in science and technology <br>
 🌱 I’m currently learning computer science <br>
 💞️ I’m looking to collaborate on development of science and technology <br>
 📫 How to reach me amvidsa@gmail.com <br>
-🚺 Pronouns: she/her/her <br>
+🚺 Pronouns: she/her <br>
 😝 Fun fact: I'm interested in astrology and astronomy! <br>
 
 <!---
